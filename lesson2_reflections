@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+You need to do it in order to create it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The stating area is the place where do you place files that you want in the repository. The value is that you can
+choose wich files goes tracked by git.
